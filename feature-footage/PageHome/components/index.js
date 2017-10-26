@@ -1,0 +1,1 @@
+export default () => 'THIS IS A COMPONENT';
